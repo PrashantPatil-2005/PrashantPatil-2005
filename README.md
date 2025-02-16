@@ -69,6 +69,7 @@ Stay tuned for updates! 🔥
 
 📫 **Email**: [prashanthpatil02@gmail.com](mailto:prashanthpatil02@gmail.com)  
 💼 **LinkedIn**: [Prashant Patil](https://www.linkedin.com/in/prashant-patil-320bbb28a/)  
+📝 **Blog**: [Prashant's Blog](https://prashantpatil01.blogspot.com/)  
 
 - ⚡ Fun fact: I prefer keeping things simple and straightforward, no overcomplicating required.
 
