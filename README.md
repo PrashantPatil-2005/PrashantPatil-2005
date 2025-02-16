@@ -1,12 +1,12 @@
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
-<p align="center">Developer | AI Enthusiast | Competitive Programmer</p>
+<p align="center"> Driven Developer | DSA(cpp) | MERN | PYTHON | AI and CY Enthusiast</p>
 
 ---
 
-Hey!!! I'm a passionate developer with interests in **AI, competitive programming, cybersecurity, and development**.  
+Hey!!! I'm a Driven developer with interests in **AI, cybersecurity, DSA and development**.  
 Currently, I'm actively working on:  
 ✔ **AI-powered projects**, including an AI-powered blog assistant.  
-✔ **Competitive programming** (Codeforces) with a focus on **constructive algorithms and implementation problems**.  
+✔ **MERN** ,full stack developer with DevOps.
 ✔ **Hackathons**, solving real-world problems with innovative tech solutions.  
 
 I love exploring new technologies, optimizing systems, and sharing knowledge. 🚀  
@@ -40,18 +40,14 @@ I love exploring new technologies, optimizing systems, and sharing knowledge. �
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 ### Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)  
 ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green)  
 
 ### Databases  
 ![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Backend Development  
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)  
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)  
 ![Flask](https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000)  
 ![Node.js](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs)  
@@ -61,9 +57,8 @@ I love exploring new technologies, optimizing systems, and sharing knowledge. �
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)  
 
 ---
-
 ## 🚀 Projects  
-I'm currently working on some exciting projects related to **AI, competitive programming, and development**.  
+I'm currently working on some exciting projects related to **AI, development, and emerging technologies (ERTA)**.  
 Stay tuned for updates! 🔥  
 
 ---
@@ -77,7 +72,3 @@ Stay tuned for updates! 🔥
 - ⚡ Fun fact: I prefer keeping things simple and straightforward, no overcomplicating required.
 
 
-<!---
-PrashantPatil-2005/PrashantPatil-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
