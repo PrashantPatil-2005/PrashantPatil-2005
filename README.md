@@ -1,61 +1,79 @@
+<p>
+    <img src="https://komarev.com/ghpvc/?username=PrashantPatil-2005&label=Profile%20Visitors&color=0e75b6&style=flat" alt="PrashantPatil-2005" />
+</p>
+
+
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
 <p align="center"> UG - Developer | DSA | MERN - Stack | PYTHON Devlopment | Working on AI and CY </p>
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
+        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" />
+    </a>
+    <a href="https://codeforces.com/profile/prashanthpatil" target="_blank">
+        <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&logoColor=white&style=for-the-badge" style="vertical-align:center" />
+    </a>
+  <a href="https://x.com/prashant_21_3" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/Twitter-FFFFFF?logo=x&logoColor=black&style=for-the-badge" style="vertical-align:center" />
+</a>
+<a href="https://www.linkedin.com/in/prashant-patil-320bbb28a/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=for-the-badge&labelColor=FFFFFF&color=0A66C2" style="vertical-align:center" />
+    </a>
+</p>
+
 
 Hey!!! I'm a Undergraduate developer with interests in **AI, CyberSecurity, DSA and development**.  
 Currently, I'm actively working on:  
-✔ **AI-powered projects**, AI and ML with deeplearning and more.     
-✔ **MERN**, full stack developer with DevOps.         
-✔ **Hackathons**, solving real-world problems with innovative tech solutions.  
+🔵 **AI-powered projects**, leveraging data to create predictive models and automate tasks.     
+🔵 **MERN**, Designing, Developing and Deploying high-performance MERN stack applications    
+🔵 **CYBER SECURITY**, Mastering Ethical Hacking, solving CTF challenges and performing penetration testing to enhance my cybersecurity skills.  
+🔵 **Hackathons**, solving real-world problems with innovative tech solutions.  
 
 I love exploring new technologies, optimizing systems, and sharing knowledge. 🚀  
 
----
+## Technical Skills 🎓🎯
 
-## 🌍 Social Links  
-<p align="center">
-  <a href="https://github.com/PrashantPatil-2005" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://x.com/prashant_21_3" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/prashant-patil-320bbb28a/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3E5CE5?logo=linkedin&logoColor=fff&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🎯 Technical Skills  
-
-### Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-E4E4E4?style=for-the-badge&logo=Java&logoColor=0)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green)  
-
-### Databases  
-![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
-
-### Backend Development  
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)  
-![Flask](https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000)  
-![Node.js](https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs)  
-
-### Version Control  
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)  
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/java-E4E4E4?style=for-the-badge&logo=Java&logoColor=0">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases/state</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green">
+      <img src="https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000">
+      <img src="https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git">
+      <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🚀 Projects  
@@ -66,11 +84,14 @@ Stay tuned for updates! 🔥
 
 ## 🤝 Connect with Me  
 💬 Feel free to reach out if you want to discuss **AI, Cyber Security, or Development!**, I would love to help you out!  
+- ⚡ Fun fact: I prefer keeping things simple and straightforward, no overcomplicating required.
+<!-- ## Thanks for Visiting my GitHub Profile! -->
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 
 📫 **Email**: [prashanthpatil02@gmail.com](mailto:prashanthpatil02@gmail.com)  
 💼 **LinkedIn**: [Prashant Patil](https://www.linkedin.com/in/prashant-patil-320bbb28a/)  
 📝 **Blog**: [Prashant's Blog](https://prashantpatil01.blogspot.com/)  
 
-- ⚡ Fun fact: I prefer keeping things simple and straightforward, no overcomplicating required.
+
 
 
