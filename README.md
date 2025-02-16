@@ -1,12 +1,12 @@
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
-<p align="center"> Driven Developer | DSA(cpp) | MERN | PYTHON | AI and CY Enthusiast</p>
+<p align="center"> UG - Developer | DSA | MERN - Stack | PYTHON Devlopment | Working on AI and CY </p>
 
 ---
 
-Hey!!! I'm a Driven developer with interests in **AI, cybersecurity, DSA and development**.  
+Hey!!! I'm a Undergraduate developer with interests in **AI, CyberSecurity, DSA and development**.  
 Currently, I'm actively working on:  
-✔ **AI-powered projects**, including an AI-powered blog assistant.  
-✔ **MERN**,full stack developer with DevOps.
+✔ **AI-powered projects**, AI and ML with deeplearning and more.     
+✔ **MERN**, full stack developer with DevOps.         
 ✔ **Hackathons**, solving real-world problems with innovative tech solutions.  
 
 I love exploring new technologies, optimizing systems, and sharing knowledge. 🚀  
@@ -46,6 +46,7 @@ I love exploring new technologies, optimizing systems, and sharing knowledge. �
 ### Databases  
 ![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ### Backend Development  
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)  
@@ -64,7 +65,7 @@ Stay tuned for updates! 🔥
 ---
 
 ## 🤝 Connect with Me  
-💬 Feel free to reach out if you want to discuss **AI, Competitive Programming, or Development!**  
+💬 Feel free to reach out if you want to discuss **AI, Cyber Security, or Development!**, I would love to help you out!  
 
 📫 **Email**: [prashanthpatil02@gmail.com](mailto:prashanthpatil02@gmail.com)  
 💼 **LinkedIn**: [Prashant Patil](https://www.linkedin.com/in/prashant-patil-320bbb28a/)  
