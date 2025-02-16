@@ -6,28 +6,45 @@
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
 <p align="center"> UG - Developer | DSA | MERN - Stack | PYTHON Devlopment | Working on AI and CY </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
-        <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" />
-    </a>
-    <a href="https://codeforces.com/profile/prashanthpatil" target="_blank">
-        <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&logoColor=white&style=for-the-badge" style="vertical-align:center" />
-    </a>
-  <a href="https://x.com/prashant_21_3" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/Twitter-FFFFFF?logo=x&logoColor=black&style=for-the-badge" style="vertical-align:center" />
-</a>
-<a href="https://www.linkedin.com/in/prashant-patil-320bbb28a/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=for-the-badge&labelColor=FFFFFF&color=0A66C2" style="vertical-align:center" />
-    </a>
-</p>
+                                            
+<table align="center" cellspacing="0" cellpadding="5">
+    <tr>
+      <td align="center" style="border: none;">
+          <spam><strong>Coding Profiles</strong></spam>
+        <p>       
+          <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
+            <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" />
+          </a>
+            <br>
+          <a href="https://codeforces.com/profile/prashanthpatil" target="_blank">
+            <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&logoColor=white&style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+  
+<td align="center" style="border: none;">
+      <spam><strong>Social Media</strong></spam> 
+    <p>
+     <a href="https://x.com/prashant_21_3" target="_blank">
+     <img alt="X" src="https://img.shields.io/badge/Twitter-FFFFFF?logo=x&logoColor=black&style=for-the-badge" />
+         </a>
+        <br>
+         <a href="https://www.linkedin.com/in/prashant-patil-320bbb28a/" target="_blank">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2&style=for-the-badge&labelColor=FFFFFF&color=0A66C2" />
+         </a>
+      </p>
+   </td>
+   </tr>
+  </table>
+  
 
-
-Hey!!! I'm a Undergraduate developer with interests in **AI, CyberSecurity, DSA and development**.  
+Hey..! I'm a Undergraduate Software developer with interests in **AI, CyberSecurity, DSA and development**.  
 Currently, I'm actively working on:  
+
+🔵 **DSA in C++**, I Solve Problems in Leetcode and Codeforce, and Participate in weekly contests                                     
 🔵 **AI-powered projects**, leveraging data to create predictive models and automate tasks.     
 🔵 **MERN**, Designing, Developing and Deploying high-performance MERN stack applications    
-🔵 **CYBER SECURITY**, Mastering Ethical Hacking, solving CTF challenges and performing penetration testing to enhance my cybersecurity skills.  
-🔵 **Hackathons**, solving real-world problems with innovative tech solutions.  
+🔵 **CYBER SECURITY**, Mastering Ethical Hacking, solving CTF challenges and performing penetration testing to enhance skills.  
 
 I love exploring new technologies, optimizing systems, and sharing knowledge. 🚀  
 
