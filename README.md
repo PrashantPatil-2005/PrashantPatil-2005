@@ -6,7 +6,7 @@
 Hey!!! I'm a Driven developer with interests in **AI, cybersecurity, DSA and development**.  
 Currently, I'm actively working on:  
 ✔ **AI-powered projects**, including an AI-powered blog assistant.  
-✔ **MERN** ,full stack developer with DevOps.
+✔ **MERN**,full stack developer with DevOps.
 ✔ **Hackathons**, solving real-world problems with innovative tech solutions.  
 
 I love exploring new technologies, optimizing systems, and sharing knowledge. 🚀  
