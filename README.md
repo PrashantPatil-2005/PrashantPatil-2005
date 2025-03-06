@@ -83,13 +83,7 @@ I love exploring new technologies, optimizing systems, and sharing knowledge. ðŸ
       <img src="https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs">
     </td>
   </tr>
-  <tr>
-    <td><b>Version Control</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git">
-      <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github">
-    </td>
-  </tr>
+
 </table>
 
 ---
