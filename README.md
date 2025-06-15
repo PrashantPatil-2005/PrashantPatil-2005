@@ -65,16 +65,14 @@ I love exploring new technologies, optimizing systems, and sharing knowledge. ðŸ
   <tr>
     <td><b>Databases/state</b></td>
     <td>
-      <img src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green">
-      <img src="https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000">
       <img src="https://img.shields.io/badge/-Node-000?style=for-the-badge&logo=nodedotjs">
     </td>
   </tr>
