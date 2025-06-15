@@ -1,6 +1,3 @@
-<p>
-    <img src="https://komarev.com/ghpvc/?username=PrashantPatil-2005&label=Profile%20Visitors&color=0e75b6&style=flat" alt="PrashantPatil-2005" />
-</p>
 
 
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
