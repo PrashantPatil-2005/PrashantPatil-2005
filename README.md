@@ -9,7 +9,7 @@
       <td align="center" style="border: none;">
           <spam><strong>Coding Profiles</strong></spam>
         <p>       
-          <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
+          <a href="https://leetcode.com/u/prashanthpatil1/" target="_blank">
             <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" />
           </a>
             <br>
