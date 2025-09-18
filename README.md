@@ -9,12 +9,13 @@
       <td align="center" style="border: none;">
           <spam><strong>Coding Profiles</strong></spam>
         <p>       
-          <a href="https://leetcode.com/u/  prashanthpatil/" target="_blank">
+          <a href="https://leetcode.com/u/prashanthpatil/" target="_blank">
             <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" />
           </a>
             <br>
-          <a href="https://codefor ces.com/profile/ prashanthpatil" target="_blank">
-            <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&logoColor=white&style=for-the-badge" />
+                      <br>
+<!--           <a href="https://codefor ces.com/profile/ prashanthpatil" target="_blank">
+            <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&logoColor=white&style=for-the-badge" /> -->
           </a>
         </p>
       </td>
