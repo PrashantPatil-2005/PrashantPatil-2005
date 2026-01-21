@@ -2,7 +2,6 @@
 
 <h1 align="center"> Hey 👋🏻, I'm Prashant Patil </h1>
 <p align="center"> UG - Developer | DSA | MERN - Stack | PYTHON Devleopment | Working on AI and CY </p>
-
                                             
 <table align="center" cellspacing="0" cellpadding="5">
     <tr>
